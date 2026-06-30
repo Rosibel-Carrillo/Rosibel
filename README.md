@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## ** Mi Primer Repositorio de Desarrollo de Software**
 Este repositorio fue creado para aprender a utilizar GitHub, practicar programación y almacenar mis proyectos académicos.También me permite llevar un seguimiento de mi aprendizaje y mostrar mi progreso en el área de  desarrollo de software..
 
-<img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/12d0be1d-1645-4e2a-8515-858637f7ced9" />
 
-<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/3e14a03b-b7b5-45a9-9b24-28720f6956df" />
+<img width="270" height="170" alt="image" src="https://github.com/user-attachments/assets/b41e4f5b-9fef-4510-93b3-e31a7f9e935f" />
+<img width="250" height="230" alt="image" src="https://github.com/user-attachments/assets/1c77d276-84ff-4180-9544-fe26a9de84c6" />
+
